@@ -8,17 +8,17 @@ var gameInterval, updateInterval
 
 function pirateName() {
   var names = [
-    'Blackbeard',
-    'Jimmy',
-    'Roger',
-    'Carlos',
-    'Juanita',
-    'Sophie',
-    'Boris',
-    'Jenny',
-    'Doris',
-    'Philippe',
-    'Jack'
+    'Stupid',
+    'Joemama',
+    'ihateallyall',
+    'UNBLOCKEDgame',
+    'Stupidhead',
+    'yourmom',
+    'BESTplayer',
+    'IloveTHISgame',
+    'Hi',
+    'Billy',
+    'BOB'
   ]
   return names[Math.floor(Math.random()*names.length)]
 }
